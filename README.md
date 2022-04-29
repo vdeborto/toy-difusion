@@ -1,2 +1,2 @@
 # toy-difusion
-A toy diffusion with JAX
+A toy diffusion model with JAX
